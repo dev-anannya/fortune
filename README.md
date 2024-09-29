@@ -24,16 +24,11 @@ This is a simple fortune teller web app built using Python. The app generates ra
    cd <repository-name>
    ```
 
-2. **Install Dependencies: Ensure you have Python installed. You can install Flask if it's not already installed**:
-```bash
-pip install Flask 
-``` 
+2. **Run the Application: Run the Python script to start the web server**:
+    ```bash
+    python index.py
+    ```
 
-
-3. **Run the Application: Run the Python script to start the web server**:
-```bash
-python server.py
-```
 ## Usage
 Click the "Generate Fortune" button to receive a new fortune.
 Note that you can only generate up to 10 fortunes in a single day.
